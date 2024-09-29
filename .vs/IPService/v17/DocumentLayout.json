@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|c:\\workspace\\ip2location-workspace\\projects\\ipservices\\entities\\blockedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:entities\\blockedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|c:\\workspace\\ip2location-workspace\\projects\\ipservices\\entities\\blockedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:entities\\blockedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|c:\\workspace\\ip2location-workspace\\projects\\ipservices\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\forms\\appform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:forms\\appform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\forms\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:forms\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|c:\\workspace\\ip2location-workspace\\projects\\ipservices\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA6DA82-4BBB-4786-BDAF-492BC00732C2}|IPService.csproj|solutionrelative:helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockedIp.cs",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\BlockedIp.cs",
+              "RelativeDocumentMoniker": "Entities\\BlockedIp.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\BlockedIp.cs",
+              "RelativeToolTip": "Entities\\BlockedIp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockedRegion.cs",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\BlockedRegion.cs",
+              "RelativeDocumentMoniker": "Entities\\BlockedRegion.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\BlockedRegion.cs",
+              "RelativeToolTip": "Entities\\BlockedRegion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:34.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:20.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppForm.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\AppForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AppForm.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\AppForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AppForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:25:18.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:24:53.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\SettingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SettingForm.cs",
+              "ToolTip": "C:\\Workspace\\IP2Location-Workspace\\Projects\\IPServices\\Forms\\SettingForm.cs [Design]",
+              "RelativeToolTip": "Forms\\SettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:52:28.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
